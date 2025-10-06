@@ -1,2 +1,2 @@
 # DepricatedAPIs
-A study on Depreciated APIs
+A study on Deprecated APIs
